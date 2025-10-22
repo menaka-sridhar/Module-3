@@ -26,3 +26,4 @@ print("Filtered list (without 'e'):", filtered_words)
 <img width="1551" height="227" alt="image" src="https://github.com/user-attachments/assets/d233d00a-e254-452a-bd66-00fa915c4d6a" />
 
 ## Result
+The code is executed successfully.
