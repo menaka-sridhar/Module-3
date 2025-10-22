@@ -27,6 +27,7 @@ else:
 
 
 ## Output
-<img width="1551" height="227" alt="image" src="https://github.com/user-attachments/assets/1c398acd-f79a-4e8e-95cd-7b5441653bdb" />
+<img width="1282" height="303" alt="image" src="https://github.com/user-attachments/assets/670d0685-294c-4e18-b974-9e47fc833325" />
 
 ## Result
+The code is executed successfully.
